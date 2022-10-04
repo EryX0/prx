@@ -6,20 +6,6 @@ mode: rule
 log-level: silent
 external-controller: 127.0.0.1:9090
 
-dns:
-  enable: true
-  listen: 0.0.0.0:53
-  ipv6: false
-  nameserver:
-    - https://dns.controld.com/1bgpc5b82fr
-    - https://dns.nextdns.io/bb7d34
-  fallback:
-    - 185.51.200.2
-    - 178.22.122.100
-    - 8.8.8.8
-  enhanced-mode: fake-ip # or redir-host (not recommended)
-  fake-ip-range: 198.18.0.1/16 # Fake IP addresses pool CIDR
-
 proxies: []
 proxy-groups:
   - name: 🔰 Select
