@@ -12,6 +12,10 @@ dns:
   nameserver:
     - 76.76.2.5
     - 76.76.10.5
+  default-nameserver:
+    - 5.200.200.200
+  enhanced-mode: fake-ip # or redir-host (not recommended)
+  fake-ip-range: 198.18.0.1/16
 
 proxies: []
 proxy-groups:
