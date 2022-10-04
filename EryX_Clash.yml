@@ -83,16 +83,15 @@ proxy-providers:
     path: proxies.bihai.cf/provider.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 300
       url: http://www.gstatic.com/generate_204
   s2-all:
     type: http
     url: "http://wxshi.top:9090/clash/proxies"
-    interval: 3600
     path: ./provider.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 300
       url: http://www.gstatic.com/generate_204
   s3-all:
     type: http
@@ -100,16 +99,15 @@ proxy-providers:
     path: sspool.herokuapp.com/provider.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 300
       url: http://www.gstatic.com/generate_204
   s4-all:
     type: http
     url: "https://free886.herokuapp.com/clash/proxies"
     path: provider.yaml
-    interval: 3600
     health-check:
       enable: true
-      interval: 600
+      interval: 300
       url: http://www.gstatic.com/generate_204
 
 rules:
