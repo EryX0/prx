@@ -1,12 +1,12 @@
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@cat1.sshocean.net:443?security=tls&type=tcp#🇨🇦 CA_02 TG%40peekfun
+trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@cat1.sshocean.net:443?security=none&type=tcp#🇨🇦 CA_02 TG%40peekfun
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@213.183.53.198:9010#🇱🇹 LT_249
 ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZQ==@213.183.53.222:9058#🇱🇹LT_252
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@213.183.53.212:9073#🇱🇹LT_260
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@213.183.53.222:9038#🇱🇹LT_268
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@213.183.51.171:9010#🇳🇱NL_360
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.51.172:9064#🇳🇱NL_363
-trojan://BXE9notY@nice-jp01.tiktokcdn.buzz:443?security=tls&type=tcp#🇯🇵 JP_41
-trojan://ff37081f-9043-476a-a6ea-854297b06839@nice-ca01.tiktokcdn.buzz:443?security=tls&type=tcp#🇺🇸 US_87 %7C 0.06Mb
+trojan://BXE9notY@nice-jp01.tiktokcdn.buzz:443?security=none&type=tcp#🇯🇵 JP_41
+trojan://ff37081f-9043-476a-a6ea-854297b06839@nice-ca01.tiktokcdn.buzz:443?security=none&type=tcp#🇺🇸 US_87 %7C 0.06Mb
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@185.167.116.252:9024#t.me%2Fwbnet_🇦🇺_5
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@185.167.116.252:9027#t.me%2Fwbnet_🇦🇺_7
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@185.167.116.252:9006#t.me%2Fwbnet_🇦🇺_9
@@ -49,18 +49,18 @@ ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@213.183.53.197:9073#t.me%2Fwbnet_�
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@213.183.53.197:9018#t.me%2Fwbnet_🇷🇺_674
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@213.183.53.212:9007#t.me%2Fwbnet_🇷🇺_679
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@213.183.53.198:9057#t.me%2Fwbnet_🇷🇺_690
-trojan://82lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@tky3.ssgnode.ga:443?security=tls&type=tcp#🇯🇵 JP_120 TG%40peekfun
-trojan://b64b0f9c-23df-3112-a790-d8aa068aa2fe@jp.useanlo.cf:6523?security=tls&type=tcp#🇳🇱 NL_152 TG%40peekfun
-trojan://opentunnel.net-zdrgvbhjnmhgfx@ukt-1.opensvr.net:443?security=tls&type=tcp#🇺🇸 US_170 TG%40peekfun
-trojan://share.mjj-home.com@share.softbank.mjj-home.com:443?security=tls&type=tcp#🇺🇸 US_173 TG%40peekfun
-trojan://dc1453e4-e5c4-4b30-bee3-6ed2adce9ee3@56789.gq:443?security=tls&type=tcp#🇺🇸 US_175 TG%40peekfun
-trojan://oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw@music.missionsec.us:443?security=tls&type=tcp#🇺🇸 US_178 TG%40peekfun
-trojan://share.mjj-home.com@api.mjj-home.com:443?security=tls&type=tcp#🇺🇸 US_179 TG%40peekfun
-trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443?security=tls&type=tcp#🇺🇸 US_181 TG%40peekfun
-trojan://b64b0f9c-23df-3112-a790-d8aa068aa2fe@www.anloao.cf:9053?security=tls&type=tcp#🇺🇸 US_187 TG%40peekfun
-trojan://770c9e92-f51b-3e52-b932-eba13fb56801@s162.s2022.xyz:23802?security=tls&type=tcp#🇺🇸 US_191 TG%40peekfun
-trojan://6589ce99-9ff7-3c1b-a744-ca3f4abfe386@singapore.anthoncloud.com:3306?security=tls&type=tcp#🇺🇸 US_192 TG%40peekfun
-trojan://123456@trojan-ctb-sg01.globalssh.xyz:443?security=tls&type=tcp#Relay_🇩🇪DE-🇩🇪DE_123
+trojan://82lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@tky3.ssgnode.ga:443?security=none&type=tcp#🇯🇵 JP_120 TG%40peekfun
+trojan://b64b0f9c-23df-3112-a790-d8aa068aa2fe@jp.useanlo.cf:6523?security=none&type=tcp#🇳🇱 NL_152 TG%40peekfun
+trojan://opentunnel.net-zdrgvbhjnmhgfx@ukt-1.opensvr.net:443?security=none&type=tcp#🇺🇸 US_170 TG%40peekfun
+trojan://share.mjj-home.com@share.softbank.mjj-home.com:443?security=none&type=tcp#🇺🇸 US_173 TG%40peekfun
+trojan://dc1453e4-e5c4-4b30-bee3-6ed2adce9ee3@56789.gq:443?security=none&type=tcp#🇺🇸 US_175 TG%40peekfun
+trojan://oxcgPpS7rXEGZJ7sQe8BpbQ1LHfIKlDw@music.missionsec.us:443?security=none&type=tcp#🇺🇸 US_178 TG%40peekfun
+trojan://share.mjj-home.com@api.mjj-home.com:443?security=none&type=tcp#🇺🇸 US_179 TG%40peekfun
+trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443?security=none&type=tcp#🇺🇸 US_181 TG%40peekfun
+trojan://b64b0f9c-23df-3112-a790-d8aa068aa2fe@www.anloao.cf:9053?security=none&type=tcp#🇺🇸 US_187 TG%40peekfun
+trojan://770c9e92-f51b-3e52-b932-eba13fb56801@s162.s2022.xyz:23802?security=none&type=tcp#🇺🇸 US_191 TG%40peekfun
+trojan://6589ce99-9ff7-3c1b-a744-ca3f4abfe386@singapore.anthoncloud.com:3306?security=none&type=tcp#🇺🇸 US_192 TG%40peekfun
+trojan://123456@trojan-ctb-sg01.globalssh.xyz:443?security=none&type=tcp#Relay_🇩🇪DE-🇩🇪DE_123
 ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZQ==@213.183.53.198:9058#🇱🇹 LT_247
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@213.183.53.198:9097#🇱🇹 LT_248
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@213.183.59.229:9015#🇳🇱NL_375
@@ -94,15 +94,15 @@ ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@213.183.53.197:9098#t.me%2Fwbnet_�
 ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZQ==@213.183.53.207:9058#t.me%2Fwbnet_🇷🇺_666
 ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@213.183.53.212:9056#t.me%2Fwbnet_🇷🇺_684
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.53.214:9060#t.me%2Fwbnet_🇷🇺_694
-trojan://469bd26e-cbaa-4367-8087-13a7bf24d873@924hk.tfzhc.top:44399?security=tls&type=tcp#Relay_🇦🇺 AU-🇦🇺AU_05
-trojan://469bd26e-cbaa-4367-8087-13a7bf24d873@927tw01.tfzhc.top:44319?security=tls&type=tcp#Relay_🇨🇦 CA-🇨🇦CA_16
-trojan://RFcWGOaSXo@nice-uk01.tiktokcdn.buzz:25874?security=tls&type=tcp#Relay_🇬🇧 GB-🇬🇧GB_171
-trojan://ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428@musashino.freetrade.link:443?security=tls&type=tcp#Relay_🇯🇵 JP-🇯🇵JP_211
+trojan://469bd26e-cbaa-4367-8087-13a7bf24d873@924hk.tfzhc.top:44399?security=none&type=tcp#Relay_🇦🇺 AU-🇦🇺AU_05
+trojan://469bd26e-cbaa-4367-8087-13a7bf24d873@927tw01.tfzhc.top:44319?security=none&type=tcp#Relay_🇨🇦 CA-🇨🇦CA_16
+trojan://RFcWGOaSXo@nice-uk01.tiktokcdn.buzz:25874?security=none&type=tcp#Relay_🇬🇧 GB-🇬🇧GB_171
+trojan://ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428@musashino.freetrade.link:443?security=none&type=tcp#Relay_🇯🇵 JP-🇯🇵JP_211
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@213.183.53.212:9014#🇱🇹LT_231
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@213.183.51.172:9070#🇳🇱NL_317
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.85:8119#🇺🇸 US_397
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.102.74:5003#🇺🇸 US_427
-trojan://null@nice-us01.tiktokcdn.buzz:443?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_436
+trojan://null@nice-us01.tiktokcdn.buzz:443?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_436
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.85:8091#🇺🇸US_510
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.85:8090#🇺🇸US_596
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.85:8080#🇺🇸US_606
@@ -138,7 +138,7 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.85:9101#t.me%2Fwbnet_🇺�
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.85:2376#t.me%2Fwbnet_🇺🇸_850
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.85:4444#t.me%2Fwbnet_🇺🇸_867
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.91.102.123:9101#t.me%2Fwbnet_🇺🇸_1037
-trojan://3oquVrpxPg@wangqifei.ga:41477?security=tls&type=tcp#🇦🇺 AU_01 %7C 8.34Mb
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@api.tcpbbr.net:18443?security=tls&type=tcp#🇭🇰 HK_33 %7C20.31Mb
-trojan://192a315a-a324-4d92-a017-2b30e6b75324@nicekr-01.tiktokcdn.buzz:23564?security=tls&type=tcp#🇰🇷 KR_45 %7C 3.81Mb
-trojan://fPrIXmKPn0@rbobo.tk:31142?security=tls&type=tcp#🇺🇸 US_84 %7C61.83Mb
+trojan://3oquVrpxPg@wangqifei.ga:41477?security=none&type=tcp#🇦🇺 AU_01 %7C 8.34Mb
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@api.tcpbbr.net:18443?security=none&type=tcp#🇭🇰 HK_33 %7C20.31Mb
+trojan://192a315a-a324-4d92-a017-2b30e6b75324@nicekr-01.tiktokcdn.buzz:23564?security=none&type=tcp#🇰🇷 KR_45 %7C 3.81Mb
+trojan://fPrIXmKPn0@rbobo.tk:31142?security=none&type=tcp#🇺🇸 US_84 %7C61.83Mb

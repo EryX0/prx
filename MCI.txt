@@ -2,7 +2,7 @@ vmess://ewogICAgImFkZCI6ICIxOTIuMTYxLjE2NC4xNTYiLAogICAgImFpZCI6ICIwIiwKICAgICJo
 vmess://ewogICAgImFkZCI6ICI0My4xNDIuODcuMTI4IiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjEyYmZjOGM2LTFiMDctNGYwNy1kM2MzLWYxODVlODllOTYxYyIsCiAgICAibmV0IjogInRjcCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiNDgxNiIsCiAgICAicHMiOiAiXzAzIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
 vmess://ewogICAgImFkZCI6ICJ4aWV4aS50ayIsCiAgICAiYWlkIjogIjY0IiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMzc1NTFjYTAtOGNjMy00MzJmLWNhMWYtODJhYmExZGIzZWY5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogIjIwOTYiLAogICAgInBzIjogIlJlbGF5Xy3wn4e68J+HuFVTXzA1IiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
 vmess://ewogICAgImFkZCI6ICI0My4xNTQuMzQuNDkiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjQwMmE0YWYtMjg1YS00NjNlLWMzYTctNTNmOTFlZmRlYzc4IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6ICIyMzE4MyIsCiAgICAicHMiOiAi8J+HpvCfh7pBVV8xNCIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
-trojan://a9b56b59-ee82-4331-91f8-955d1fdc4e10@nice-ca02.tiktokcdn.buzz:8443?security=tls&type=tcp#Relay_🇨🇦 CA-🇨🇦CA_19
+trojan://a9b56b59-ee82-4331-91f8-955d1fdc4e10@nice-ca02.tiktokcdn.buzz:8443?security=none&type=tcp#Relay_🇨🇦 CA-🇨🇦CA_19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:811#🇨🇦CA_26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:801#🇨🇦CA_30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:804#🇨🇦CA_40
@@ -11,7 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:809#🇨�
 vmess://ewogICAgImFkZCI6ICI0LmhrLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsCiAgICAibmV0IjogInRjcCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiMzY2NzYiLAogICAgInBzIjogIlJlbGF5X/Cfh6jwn4ezQ04t8J+Ht/Cfh7pSVV82NiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
 vmess://ewogICAgImFkZCI6ICI0LjMuMS5mdWNrcHBwcHAudG9kYXkiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMjQ0ZWZmZDktMDIwNC0zYzRhLTg1MzctMGRjYTRlNWZkOWI1IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6ICI1ODQxOCIsCiAgICAicHMiOiAiUmVsYXlf8J+HqPCfh7NDTi3wn4et8J+HsEhLXzY3IiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#🇨🇾 CY_68
-trojan://123456@trojan-ctb-sg01.globalssh.xyz:443?security=tls&type=tcp#Relay_🇩🇪DE-🇩🇪DE_117
+trojan://123456@trojan-ctb-sg01.globalssh.xyz:443?security=none&type=tcp#Relay_🇩🇪DE-🇩🇪DE_117
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🇬🇧 GB_182
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🇬🇧 GB_183
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#🇬🇧 GB_184
@@ -20,7 +20,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@163.172.110.153:809#🇬�
 ss://YWVzLTI1Ni1nY206Tmk3WG45UEpQTg==@45.152.65.174:15941#🇬🇧GB_193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:808#🇬🇧GB_209
 vmess://ewogICAgImFkZCI6ICIxNDQuMjQuODguMTAxIiwKICAgICJhaWQiOiAiMCIsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY1NDI1Y2NmLTM5NDYtNGZiNC1lYjI0LTUzOTNkNzhhMzkyZiIsCiAgICAibmV0IjogInRjcCIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiMTY4MzMiLAogICAgInBzIjogIvCfh6zwn4enR0JfMjEyIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@ssl.tcpbbr.net:12163?security=tls&type=tcp#Relay_🇭🇰 HK-🇭🇰HK_216
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@ssl.tcpbbr.net:12163?security=none&type=tcp#Relay_🇭🇰 HK-🇭🇰HK_216
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ==@185.162.125.91:50004#🇮🇱IL_228
 ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw==@84.33.193.79:18760#🇮🇹IT_229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@193.38.139.202:810#Pool_🇯🇵 JP_230
@@ -35,20 +35,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@193.38.139.202:807#Pool_�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@193.38.139.202:804#Pool_🇯🇵 JP_241
 vmess://ewogICAgImFkZCI6ICJqcDIudHpjY3d6LmZpdCIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmNzJlZTU4Zi03OGJmLTRiNjEtODQ0Mi03YjljY2E5MTJiMTQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiMjc0ODAiLAogICAgInBzIjogIlJlbGF5X/Cfh6/wn4e1IEpQLfCfh6/wn4e1SlBfMjQyIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
 vmess://ewogICAgImFkZCI6ICJtNC40MDAxMDAxMC54eXoiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTc1ZTRkOTItMTA1Ni00NGMyLThjYWMtNzVlZjFjODU5YWQ1IiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6ICIzNzEyMSIsCiAgICAicHMiOiAiUmVsYXlf8J+Hr/Cfh7VKUC3wn4ev8J+HtUpQXzI2MSIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
-trojan://192a315a-a324-4d92-a017-2b30e6b75324@nicekr-01.tiktokcdn.buzz:23564?security=tls&type=tcp#Relay_🇰🇷 KR-🇰🇷KR_265
+trojan://192a315a-a324-4d92-a017-2b30e6b75324@nicekr-01.tiktokcdn.buzz:23564?security=none&type=tcp#Relay_🇰🇷 KR-🇰🇷KR_265
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#🇱🇹LT_275
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTk1ZjFjZi1kN2MwLTQxMjEtYTNiZi0xOWU0MjNjMWY5YTE=@mf02.xmss.vip:18888#Relay_🇷🇺 RU-🇷🇺RU_389
 ss://YWVzLTI1Ni1jZmI6dkRTOUcycA==@185.4.65.6:21247#Relay_🇷🇺RU-🇷🇺RU_391
-trojan://ddea4d6b-52f9-4901-8dd6-49bd2e09f2ac@agroup.node3.t.nodelist-gfwairport.download:50001?security=tls&type=tcp#Relay_🇸🇬 SG-🇸🇬SG_394
+trojan://ddea4d6b-52f9-4901-8dd6-49bd2e09f2ac@agroup.node3.t.nodelist-gfwairport.download:50001?security=none&type=tcp#Relay_🇸🇬 SG-🇸🇬SG_394
 vmess://ewogICAgImFkZCI6ICI4LjIxNC4zMy4xNTgiLAogICAgImFpZCI6ICIwIiwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiY2I4MWU2YWItMWQ4My00YWMxLWYwYWQtYWU1YzJhN2MyOWVmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogIjgwIiwKICAgICJwcyI6ICLwn4e48J+HrFNHXzQwNiIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiIiwKICAgICJ2IjogIjIiCn0K
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#🇺🇸 US_440
 ss://YWVzLTI1Ni1nY206MjMzYmxvZy5jb20=@20.210.122.21:443#🇺🇸 US_468
 vmess://ewogICAgImFkZCI6ICIyMC4yMjYuMjQ4LjE0NSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0ODkzZWQzZS04YTVmLTQ4ZGMtYWExZS1iYmMyZTY3YTA2NWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiAiNDQzIiwKICAgICJwcyI6ICLwn4e68J+HuCBVU180NzYiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAiIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogIiIsCiAgICAidiI6ICIyIgp9Cg==
-trojan://bca9817f-77ad-4705-897d-121b4613aa9c@shouer.libi.eu.org:443?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_487
-trojan://ff37081f-9043-476a-a6ea-854297b06839@nice-ca01.tiktokcdn.buzz:443?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_491
-trojan://bFUAnc6jeU@se-1.tiktokcdn.sbs:49494?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_492
-trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@sg-01.tiktokcdn.top:443?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_493
-trojan://fPrIXmKPn0@rbobo.tk:31142?security=tls&type=tcp#Relay_🇺🇸 US-🇺🇸US_494
+trojan://bca9817f-77ad-4705-897d-121b4613aa9c@shouer.libi.eu.org:443?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_487
+trojan://ff37081f-9043-476a-a6ea-854297b06839@nice-ca01.tiktokcdn.buzz:443?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_491
+trojan://bFUAnc6jeU@se-1.tiktokcdn.sbs:49494?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_492
+trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@sg-01.tiktokcdn.top:443?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_493
+trojan://fPrIXmKPn0@rbobo.tk:31142?security=none&type=tcp#Relay_🇺🇸 US-🇺🇸US_494
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.47:805#🇺🇸US_530
 ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@199.115.228.30:253#🇺🇸US_712
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.47:800#🇺🇸US_723
