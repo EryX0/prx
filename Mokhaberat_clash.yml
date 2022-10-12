@@ -446,7 +446,7 @@ proxy-groups:
       - 🇰🇷KR_45|3.81Mb
       - 🇺🇸US_84|61.83Mb
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 600
   - name: ✅ Direct
     type: select
     proxies:
